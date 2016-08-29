@@ -1,2 +1,2 @@
 # TestGitHub
-Github Tutorial
+Repository for showing the bare minimums of github.
